@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-image: url(../img/fondo.jpg);
+}
+img{
+    margin: 1em;
+    width: 70%;
+}
+form{
+    background-color: rgb(219, 218, 218);
+    padding: 1em;
+}
+.caja-login{
+    background-color: white;
+}
+.caja-login div p:first-child{
+    font-size: 1.2em;
+}
+.mensaje-intro p:first-child{
+    font-weight: bold;
+}
+.mensaje-intro{
+    color: white;
+}
+.caja-login{
+    color: grey;
+}
+.footer{
+    color: white;
+}
+.footer div:first-child{
+    padding: 1em;
+}
